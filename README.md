@@ -1,4 +1,5 @@
 # Song Finder RAG (Retrieval-Augmented Generation)
+This project was completed as a part of the Duke University/Coursera Introduction to Generative AI Course
 
 # Requirements
 - Local Python installation
